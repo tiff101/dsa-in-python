@@ -1,0 +1,71 @@
+---
+food:
+  - name: make a DIY cheese platter
+    flavour_type: savoury
+    price:
+      - XS
+      - S
+      - M
+    effort: M
+    meal_type: snack
+  - name: DUMPLINGS
+    flavour_type: savoury
+    price: M
+    effort: M
+    meal_type: meal
+...
+
+---
+activities:
+  - name: skateboarding
+    is_solo: 2
+    is_indoor: 0
+
+#watch a movie at Southbank
+#
+#window shop at the nearest Westfield
+#
+#blast music with the windows down on a mountain drive. Cootha
+# Tamborine or Mt Gravatt you choose!
+#
+#get donuts. Specifically Krispy Kremes
+#
+#impulse book that concert ticket youve been thinking of going to
+# walk to the park
+#
+#walk aimlessly around the neighbourhood listening to music / a podcast
+#
+#bike ride to the city!
+# go to the gym
+# do 20 squats
+#
+#buy a paint-by-number kit from Kmart and set it up in the living room'
+# do the laundry
+#
+#break out the goon and 2012 hits
+# time for another living room dance party!
+#
+#have a bath
+# give yourself a facial and mask
+# do a walk-in beauty treatment
+#
+#paint your nails
+# or book in to get them done now!
+#
+#text your friends - whos keen to hang out now / tonight?
+#
+#stretch
+# bother Lillian / Tiffany until they hang out with you :D
+#
+#catch a bus to the city for no reason. Wander around
+# spend an hour or 2 at a BCC library
+#
+#read an old fiction book you used to love
+#
+#skim a non-fiction book on the shelf
+#
+#crack open a project youve been meaning to get to for a while
+# buy yourself some flowers :)
+#
+#drunk browse Facebook Marketplace for random things you dont need or want
+...
