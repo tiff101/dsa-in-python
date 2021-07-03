@@ -1,6 +1,7 @@
 # hi this is a random file because I'm bored
 # let's randomly generate things to do
 import random
+from data_io import read_yaml
 
 PRODUCT_NAME = 'NOT BORED Activity Generator (TM)'
 
@@ -96,12 +97,15 @@ not_happy = []
 
 
 if __name__ == '__main__':
+    # prep - read into memory
+    data = read_yaml()
+    # prompt
     # Todo: wrap this logic inside a loop, until exited.
     print(f"Hi, welcome to the {PRODUCT_NAME}!")
     print("What are we filling the void with today?")
     value = input("Enter (1) fun, (2) food or (3) i really don't care: ")
     print(value)
-
+    # entr whic
     if int(value) == 1:
         print('Alright, let\'s get started!')
         fun_decision_tree()
