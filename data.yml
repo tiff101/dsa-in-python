@@ -13,59 +13,99 @@ food:
     price: M
     effort: M
     meal_type: meal
-...
 
----
 activities:
   - name: skateboarding
     is_solo: 2
     is_indoor: 0
+  - name: watch a movie at Southbank
+    is_solo: 2RR
+    is_indoor: 0
+  - name: window shop at the nearest Westfield
+    is_solo: 2
+    is_indoor: 0
+  - name: blast music with the windows down on a mountain drive. Cootha, Tamborine or Mt Gravatt you choose!
+    is_solo: 2
+    is_indoor: 0
+  - name: get donuts. Specifically Krispy Kremes
+    is_solo: 2
+    is_indoor: 0
+  - name: impulse book that concert ticket youve been thinking of going to
+    is_solo: 2
+    is_indoor: 1
+  - name: Walk to the park
+    is_solo: 2
+    is_indoor: 0
+  - name: walk aimlessly around the neighbourhood listening to music / a podcast
+    is_solo: 2
+    is_indoor: 0
+  - name: bike ride to the city!
+    is_solo: 2
+    is_indoor: 0
+  - name: go to the gym
+    is_solo: 2
+    is_indoor: 0
+  - name: do 20 squats
+    is_solo: 2
+    is_indoor: 0
+  - name: buy a paint-by-number kit from Kmart and set it up in the living room
+    is_solo: 2
+    is_indoor: 0
+  - name: break out the goon and 2012 hits. time for another living room dance party!
+    is_solo: 2
+    is_indoor: 0
+  - name: give yourself a facial and mask
+    is_solo: 2
+    is_indoor: 0
+  - name: do a walk-in beauty treatment (hair, nails, brows, lashes)
+    is_solo: 2
+    is_indoor: 0
+  - name: paint your nails or book in to get them done now!
+    is_solo: 2
+    is_indoor: 0
+  - name: text your friends - whos keen to hang out now / tonight?
+    is_solo: 2
+    is_indoor: 0
+  - name: stretch
+    is_solo: 2
+    is_indoor: 0
+  - name: bother Lillian / Tiffany until they hang out with you :D
+    is_solo: 2
+    is_indoor: 0
+  - name: catch a bus to the city for no reason. Wander around
+    is_solo: 2
+    is_indoor: 0
+  - name: spend an hour or 2 at a BCC library
+    is_solo: 2
+    is_indoor: 0
+  - name: read an old fiction book you used to love
+    is_solo: 2
+    is_indoor: 0
+  - name: skim a non-fiction book on the shelf
+    is_solo: 2
+    is_indoor: 0
+  - name: crack open a project youve been meaning to get to for a while
+    is_solo: 2
+    is_indoor: 0
+  - name: buy yourself some flowers :)
+    is_solo: 2
+    is_indoor: 0
+  - name: drunk browse Facebook Marketplace for random things you dont need
+    is_solo: 2
+    is_indoor: 0
 
-#watch a movie at Southbank
-#
-#window shop at the nearest Westfield
-#
-#blast music with the windows down on a mountain drive. Cootha
-# Tamborine or Mt Gravatt you choose!
-#
-#get donuts. Specifically Krispy Kremes
-#
-#impulse book that concert ticket youve been thinking of going to
-# walk to the park
-#
-#walk aimlessly around the neighbourhood listening to music / a podcast
-#
-#bike ride to the city!
-# go to the gym
-# do 20 squats
-#
-#buy a paint-by-number kit from Kmart and set it up in the living room'
-# do the laundry
-#
-#break out the goon and 2012 hits
-# time for another living room dance party!
-#
-#have a bath
-# give yourself a facial and mask
-# do a walk-in beauty treatment
-#
-#paint your nails
-# or book in to get them done now!
-#
-#text your friends - whos keen to hang out now / tonight?
-#
-#stretch
-# bother Lillian / Tiffany until they hang out with you :D
-#
-#catch a bus to the city for no reason. Wander around
-# spend an hour or 2 at a BCC library
-#
-#read an old fiction book you used to love
-#
-#skim a non-fiction book on the shelf
-#
-#crack open a project youve been meaning to get to for a while
-# buy yourself some flowers :)
-#
-#drunk browse Facebook Marketplace for random things you dont need or want
+
+
+#OTHER IDEAS
+#go to a cafe and get a coffee or some brunch!
+#look up a new recipe to try, then make an afternoon / evening of cooking it!
+#get ready, get dressed for a bar crawl.
+#pick a craft activity to try for an hour.
+#message an old friend to see how they're doing
+#browse Airbnb because why not? plan your next getaway
+#research a topic you've been thinking about
+#journal for a bit - how have things been going in the past few weeks (or months)? How have you been feeling?
+
+
+
 ...
