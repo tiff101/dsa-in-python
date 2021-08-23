@@ -1,7 +1,7 @@
 # hi this is a random file because I'm bored
 # let's randomly generate things to do
 import random
-from data_io import read_yaml
+from data_io import read_yaml, instantiate_yaml_documents
 
 PRODUCT_NAME = 'NOT BORED Activity Generator (TM)'
 
@@ -42,9 +42,8 @@ prompts = ['Let\'s try something else...', 'Hmmm let\'s see what other options w
            'Ah okay, not that one.', 'Gotcha.']
 
 
-def fun_decision_tree():
+def fun_decision_tree(choices=fun_outdoors):
     # Recursive func to go through all the options.
-    choices = fun_outdoors
     opt = random.sample(choices, 1)  # to sample and rm from options
     opt = opt[0]  # rm from list format
     choices.remove(opt)
@@ -98,7 +97,8 @@ not_happy = []
 
 if __name__ == '__main__':
     # prep - read into memory
-    data = read_yaml()
+    output = read_yaml()
+    print(output) if output is str else instantiate_yaml_documents(output)
     # prompt
     # Todo: wrap this logic inside a loop, until exited.
     print(f"Hi, welcome to the {PRODUCT_NAME}!")
